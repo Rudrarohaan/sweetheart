@@ -12,7 +12,7 @@ body {
   top: calc(50vh - 200px);
   left: calc(50vw - 150px);
   width: 300px;
-  height: 350px;
+  height: 300px;
 }
 
 #envelope > * {
@@ -73,7 +73,7 @@ h1 span {
 p {
   font-size: 17px;
   padding: 2px;
-  line-height: 20px;
+  line-height: 10px;
 }
 #letter img {
   background-size: cover;
